@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/stealjs/jest-trailing-slash-resolver/issues"
   },
-  "homepage": "https://github.com/stealjs/jest-trailing-slash-resolver#readme"
+  "homepage": "https://github.com/stealjs/jest-trailing-slash-resolver#readme",
+  "dependencies": {
+    "jest-resolve": "^24.3.0"
+  }
 }
